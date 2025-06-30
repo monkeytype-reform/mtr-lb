@@ -1,4 +1,4 @@
-import handles from "../data/handles.json" assert { type: "json" };
+import handles from "../data/handles.json" with { type: "json" };
 import { writeFile } from "node:fs";
 
 let counter = 0;
