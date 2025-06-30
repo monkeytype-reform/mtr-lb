@@ -13,6 +13,26 @@ function saveJsonAsFile(data, filename) {
     })
 }
 
+function loadNextProfile() {
+    if (counter < handles.collection.length) {
+        fetchProfile(handles.collection[counter]);
+    } else {
+        console.log("All profiles fetched successfully.");
+        console.log(db)
+        saveJsonAsFile(JSON.stringify(db, null, 2), "data/database.json")
+        saveJsonAsFile(JSON.stringify(dbMin), "data/database_min.json")
+    }
+}
+
+function findEnglishPB(personalBests) {
+    for (const pb in personalBests) {
+        if (personalBests[pb].language === "english") {
+            return personalBests[pb];
+        }
+    }
+    return null; // Return null if no English PB is found
+}
+
 function fetchProfile(handle) {
     fetch(`https://api.monkeytype.com/users/${handle}/profile?isUid=false`)
         .then(res => {
@@ -26,46 +46,48 @@ function fetchProfile(handle) {
             if (profileData.message != "Profile retrieved") {
                 throw new Error("Could not retrieve profile for handle: " + handle);
             }
+
+            const pb15s = findEnglishPB(profileData.data.personalBests.time["15"]);
+            const pb60s = findEnglishPB(profileData.data.personalBests.time["60"]);
+
+            if (pb15s == null || pb60s == null) {
+                console.log(`No English personal bests found for handle: ${handle}, skipping addition to database.`);
+                counter++;
+                loadNextProfile();
+                return; // Skip this handle if no English PBs are found
+            }
+
             db[handle] = {
                 "15s": {
-                    "acc": profileData.data.personalBests.time["15"][0].acc,
-                    "consistency": profileData.data.personalBests.time["15"][0].consistency,
-                    "wpm": profileData.data.personalBests.time["15"][0].wpm,
-                    "raw": profileData.data.personalBests.time["15"][0].raw
+                    "acc": pb15s.acc,
+                    "consistency": pb15s.consistency,
+                    "wpm": pb15s.wpm,
+                    "raw": pb15s.raw
                 },
                 "60s": {
-                    "acc": profileData.data.personalBests.time["60"][0].acc,
-                    "consistency": profileData.data.personalBests.time["60"][0].consistency,
-                    "wpm": profileData.data.personalBests.time["60"][0].wpm,
-                    "raw": profileData.data.personalBests.time["60"][0].raw
+                    "acc": pb60s.acc,
+                    "consistency": pb60s.consistency,
+                    "wpm": pb60s.wpm,
+                    "raw": pb60s.raw
                 }
             };
             dbMin[handle] = [
                 [
-                    profileData.data.personalBests.time["15"][0].acc,
-                    profileData.data.personalBests.time["15"][0].consistency,
-                    profileData.data.personalBests.time["15"][0].wpm,
-                    profileData.data.personalBests.time["15"][0].raw
+                    pb15s.acc,
+                    pb15s.consistency,
+                    pb15s.wpm,
+                    pb15s.raw
                 ],
                 [
-                    profileData.data.personalBests.time["60"][0].acc,
-                    profileData.data.personalBests.time["60"][0].consistency,
-                    profileData.data.personalBests.time["60"][0].wpm,
-                    profileData.data.personalBests.time["60"][0].raw
+                    pb60s.acc,
+                    pb60s.consistency,
+                    pb60s.wpm,
+                    pb60s.raw
                 ]
             ]
             counter++;
-            if (counter < handles.collection.length) {
-                fetchProfile(handles.collection[counter]);
-            } else {
-                console.log("All profiles fetched successfully.");
-                console.log(db)
-                saveJsonAsFile(JSON.stringify(db, null, 2), "data/database.json")
-                saveJsonAsFile(JSON.stringify(dbMin), "data/database_min.json")
-            }
+            loadNextProfile()
         })
 }
 
 fetchProfile(handles.collection[counter]);
-
-
