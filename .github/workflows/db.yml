@@ -34,7 +34,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add data/database.json data/databsae_min.json
+          git add data/database.json data/database_min.json
           git commit -m "chore: update database files" || echo "No changes to commit"
           git push
         env:
