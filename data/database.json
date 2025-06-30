@@ -124,5 +124,19 @@
       "wpm": 258.79,
       "raw": 271.19
     }
+  },
+  "anythinganything": {
+    "15s": {
+      "acc": 100,
+      "consistency": 90.85,
+      "wpm": 202.27,
+      "raw": 202.27
+    },
+    "60s": {
+      "acc": 99.13,
+      "consistency": 88.41,
+      "wpm": 180.39,
+      "raw": 183.39
+    }
   }
 }
