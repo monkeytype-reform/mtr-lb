@@ -21,10 +21,10 @@
       "raw": 149.44
     },
     "60s": {
-      "acc": 97.32,
-      "consistency": 78.51,
-      "wpm": 128.4,
-      "raw": 132.19
+      "acc": 97.98,
+      "consistency": 77.96,
+      "wpm": 134.99,
+      "raw": 136.39
     }
   },
   "kuzya_dipsize": {
@@ -137,6 +137,20 @@
       "consistency": 88.41,
       "wpm": 180.39,
       "raw": 183.39
+    }
+  },
+  "ChessKnightz": {
+    "15s": {
+      "acc": 100,
+      "consistency": 92.93,
+      "wpm": 239.87,
+      "raw": 239.87
+    },
+    "60s": {
+      "acc": 96.74,
+      "consistency": 89.23,
+      "wpm": 219.59,
+      "raw": 232.39
     }
   }
 }
