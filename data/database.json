@@ -1,0 +1,86 @@
+{
+  "saerith": {
+    "15s": {
+      "acc": 98.48,
+      "consistency": 90.53,
+      "wpm": 304.6,
+      "raw": 315.79
+    },
+    "60s": {
+      "acc": 96.61,
+      "consistency": 89.97,
+      "wpm": 269.79,
+      "raw": 288.79
+    }
+  },
+  "xyloflake": {
+    "15s": {
+      "acc": 100,
+      "consistency": 87.62,
+      "wpm": 149.44,
+      "raw": 149.44
+    },
+    "60s": {
+      "acc": 97.32,
+      "consistency": 78.51,
+      "wpm": 128.4,
+      "raw": 132.19
+    }
+  },
+  "kuzya_dipsize": {
+    "15s": {
+      "acc": 98.23,
+      "consistency": 94.34,
+      "wpm": 307.92,
+      "raw": 315.92
+    },
+    "60s": {
+      "acc": 96.64,
+      "consistency": 88.65,
+      "wpm": 275.52,
+      "raw": 296.71
+    }
+  },
+  "fallenrelic": {
+    "15s": {
+      "acc": 100,
+      "consistency": 91.4,
+      "wpm": 304.74,
+      "raw": 304.74
+    },
+    "60s": {
+      "acc": 98.76,
+      "consistency": 87.87,
+      "wpm": 267.37,
+      "raw": 272.97
+    }
+  },
+  "joshua728": {
+    "15s": {
+      "acc": 98.92,
+      "consistency": 90.32,
+      "wpm": 294.2,
+      "raw": 297.4
+    },
+    "60s": {
+      "acc": 97.28,
+      "consistency": 87.4,
+      "wpm": 265.6,
+      "raw": 279.4
+    }
+  },
+  "hiimnotgood": {
+    "15s": {
+      "acc": 100,
+      "consistency": 91.51,
+      "wpm": 284.77,
+      "raw": 284.77
+    },
+    "60s": {
+      "acc": 98.22,
+      "consistency": 90.96,
+      "wpm": 261.8,
+      "raw": 270.4
+    }
+  }
+}
