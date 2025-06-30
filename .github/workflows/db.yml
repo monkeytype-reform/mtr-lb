@@ -14,13 +14,13 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: "pnpm"
+          node-version: '22'
+          cache: 'pnpm'
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v3
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
         with:
-          version: 8 # Set your pnpm version
+          version: 10
 
       - name: Install dependencies
         run: pnpm install
@@ -36,8 +36,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git add data/database.json data/databsae_min.json
-          git commit -m "chore: auto-update database files" || echo "No changes to commit"
+          git commit -m "chore: update database files" || echo "No changes to commit"
           git push
         env:
-          # Needed if permissions are restricted; usually not required for public repos
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
