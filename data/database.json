@@ -27,20 +27,6 @@
       "raw": 136.39
     }
   },
-  "kuzya_dipsize": {
-    "15s": {
-      "acc": 98.23,
-      "consistency": 94.34,
-      "wpm": 307.92,
-      "raw": 315.92
-    },
-    "60s": {
-      "acc": 96.64,
-      "consistency": 88.65,
-      "wpm": 275.52,
-      "raw": 296.71
-    }
-  },
   "fallenrelic": {
     "15s": {
       "acc": 100,
@@ -155,10 +141,10 @@
   },
   "bl1ndfate": {
     "15s": {
-      "acc": 98.8,
-      "consistency": 78.25,
-      "wpm": 65.6,
-      "raw": 65.6
+      "acc": 93.05,
+      "consistency": 90.67,
+      "wpm": 182.28,
+      "raw": 207.06
     },
     "60s": {
       "acc": 92.24,
