@@ -586,5 +586,145 @@
       "wpm": 171.57,
       "raw": 197.76
     }
+  },
+  "octahedron": {
+    "15s": {
+      "acc": 100,
+      "consistency": 91.97,
+      "wpm": 210.26,
+      "raw": 210.26
+    },
+    "60s": {
+      "acc": 98.54,
+      "consistency": 91.93,
+      "wpm": 199.37,
+      "raw": 204.77
+    }
+  },
+  "_anomaly_": {
+    "15s": {
+      "acc": 100,
+      "consistency": 88.26,
+      "wpm": 219.07,
+      "raw": 219.07
+    },
+    "60s": {
+      "acc": 95.66,
+      "consistency": 88.66,
+      "wpm": 198.17,
+      "raw": 216.55
+    }
+  },
+  "violel": {
+    "15s": {
+      "acc": 98.97,
+      "consistency": 88.92,
+      "wpm": 227.13,
+      "raw": 233.53
+    },
+    "60s": {
+      "acc": 98.61,
+      "consistency": 85.48,
+      "wpm": 196.2,
+      "raw": 201.4
+    }
+  },
+  "serpa": {
+    "15s": {
+      "acc": 98.91,
+      "consistency": 91.89,
+      "wpm": 215.96,
+      "raw": 219.16
+    },
+    "60s": {
+      "acc": 97.27,
+      "consistency": 88.51,
+      "wpm": 195.79,
+      "raw": 205.39
+    }
+  },
+  "poem": {
+    "15s": {
+      "acc": 100,
+      "consistency": 91.55,
+      "wpm": 216.51,
+      "raw": 216.51
+    },
+    "60s": {
+      "acc": 98.8,
+      "consistency": 90.06,
+      "wpm": 194.59,
+      "raw": 199.59
+    }
+  },
+  "adryn-aria": {
+    "15s": {
+      "acc": 98.22,
+      "consistency": 90.97,
+      "wpm": 216.62,
+      "raw": 224.61
+    },
+    "60s": {
+      "acc": 97.17,
+      "consistency": 91.32,
+      "wpm": 194.18,
+      "raw": 204.78
+    }
+  },
+  "98769_": {
+    "15s": {
+      "acc": 100,
+      "consistency": 90.52,
+      "wpm": 219.99,
+      "raw": 219.99
+    },
+    "60s": {
+      "acc": 95.83,
+      "consistency": 84.55,
+      "wpm": 191.59,
+      "raw": 206.39
+    }
+  },
+  "ooreoo": {
+    "15s": {
+      "acc": 100,
+      "consistency": 89.88,
+      "wpm": 211.19,
+      "raw": 211.19
+    },
+    "60s": {
+      "acc": 97.6,
+      "consistency": 87.88,
+      "wpm": 191.39,
+      "raw": 199.59
+    }
+  },
+  "odekipalace": {
+    "15s": {
+      "acc": 98.87,
+      "consistency": 91.64,
+      "wpm": 207.1,
+      "raw": 212.7
+    },
+    "60s": {
+      "acc": 97.96,
+      "consistency": 88.95,
+      "wpm": 190.59,
+      "raw": 195.79
+    }
+  },
+  "glaukko": {
+    "15s": {
+      "acc": 100,
+      "consistency": 93.16,
+      "wpm": 216.7,
+      "raw": 216.7
+    },
+    "60s": {
+      "acc": 97.86,
+      "consistency": 84.64,
+      "wpm": 189.6,
+      "raw": 194.4
+    }
   }
 }
