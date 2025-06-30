@@ -1,0 +1,12 @@
+{
+  "name": "mtr-lb",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "create-db": "node scripts/database_create.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

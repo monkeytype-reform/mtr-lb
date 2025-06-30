@@ -1,0 +1,43 @@
+name: Generate DB
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "pnpm"
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 8 # Set your pnpm version
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run database generation
+        run: pnpm run create-db
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add data/database.json data/databsae_min.json
+          git commit -m "chore: auto-update database files" || echo "No changes to commit"
+          git push
+        env:
+          # Needed if permissions are restricted; usually not required for public repos
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
