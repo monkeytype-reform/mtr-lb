@@ -97,20 +97,6 @@
       "raw": 219.4
     }
   },
-  "XanderEC_YT": {
-    "15s": {
-      "acc": 100,
-      "consistency": 94.79,
-      "wpm": 284.79,
-      "raw": 284.79
-    },
-    "60s": {
-      "acc": 97.42,
-      "consistency": 91.79,
-      "wpm": 258.79,
-      "raw": 271.19
-    }
-  },
   "anythinganything": {
     "15s": {
       "acc": 100,
@@ -125,7 +111,7 @@
       "raw": 183.39
     }
   },
-  "ChessKnightz": {
+  "chessknightz": {
     "15s": {
       "acc": 100,
       "consistency": 92.93,
@@ -151,6 +137,440 @@
       "consistency": 76.73,
       "wpm": 149.58,
       "raw": 170.97
+    }
+  },
+  "carlibou": {
+    "15s": {
+      "acc": 97,
+      "consistency": 92.71,
+      "wpm": 277.47,
+      "raw": 293.46
+    },
+    "60s": {
+      "acc": 96.71,
+      "consistency": 89.41,
+      "wpm": 250.19,
+      "raw": 267.59
+    }
+  },
+  "dragoncityjose": {
+    "15s": {
+      "acc": 100,
+      "consistency": 95.37,
+      "wpm": 280.76,
+      "raw": 280.76
+    },
+    "60s": {
+      "acc": 97.82,
+      "consistency": 91.02,
+      "wpm": 248.77,
+      "raw": 256.77
+    }
+  },
+  "hotmama": {
+    "15s": {
+      "acc": 98.31,
+      "consistency": 95.97,
+      "wpm": 274.02,
+      "raw": 282.81
+    },
+    "60s": {
+      "acc": 95.61,
+      "consistency": 91.33,
+      "wpm": 245,
+      "raw": 269
+    }
+  },
+  "fenno": {
+    "15s": {
+      "acc": 96.44,
+      "consistency": 93.13,
+      "wpm": 255.15,
+      "raw": 269.54
+    },
+    "60s": {
+      "acc": 98.79,
+      "consistency": 93.11,
+      "wpm": 243.8,
+      "raw": 248.6
+    }
+  },
+  "munkeontop": {
+    "15s": {
+      "acc": 97.96,
+      "consistency": 93.44,
+      "wpm": 266.23,
+      "raw": 274.22
+    },
+    "60s": {
+      "acc": 97.54,
+      "consistency": 92.16,
+      "wpm": 243.2,
+      "raw": 260
+    }
+  },
+  "flaneur": {
+    "15s": {
+      "acc": 98.52,
+      "consistency": 90,
+      "wpm": 265.56,
+      "raw": 269.56
+    },
+    "60s": {
+      "acc": 98.72,
+      "consistency": 84.04,
+      "wpm": 241.5,
+      "raw": 250.29
+    }
+  },
+  "xdmoment": {
+    "15s": {
+      "acc": 98.03,
+      "consistency": 93.04,
+      "wpm": 275.95,
+      "raw": 284.75
+    },
+    "60s": {
+      "acc": 95.22,
+      "consistency": 88.85,
+      "wpm": 240.6,
+      "raw": 263.6
+    }
+  },
+  "princedhq": {
+    "15s": {
+      "acc": 100,
+      "consistency": 92.16,
+      "wpm": 252.7,
+      "raw": 252.7
+    },
+    "60s": {
+      "acc": 98.92,
+      "consistency": 88.68,
+      "wpm": 236.6,
+      "raw": 240.2
+    }
+  },
+  "shizukofanboy379": {
+    "15s": {
+      "acc": 100,
+      "consistency": 93.48,
+      "wpm": 272.81,
+      "raw": 272.81
+    },
+    "60s": {
+      "acc": 98.67,
+      "consistency": 91.7,
+      "wpm": 235.2,
+      "raw": 241
+    }
+  },
+  "swooftyy": {
+    "15s": {
+      "acc": 100,
+      "consistency": 89.36,
+      "wpm": 255.88,
+      "raw": 255.88
+    },
+    "60s": {
+      "acc": 97.68,
+      "consistency": 87.23,
+      "wpm": 231.2,
+      "raw": 241
+    }
+  },
+  "jasonhall": {
+    "15s": {
+      "acc": 98.76,
+      "consistency": 86.99,
+      "wpm": 252.78,
+      "raw": 258.38
+    },
+    "60s": {
+      "acc": 98.13,
+      "consistency": 83.67,
+      "wpm": 227.19,
+      "raw": 234.79
+    }
+  },
+  "shizuko": {
+    "15s": {
+      "acc": 99.08,
+      "consistency": 91.98,
+      "wpm": 254.41,
+      "raw": 260.01
+    },
+    "60s": {
+      "acc": 96.33,
+      "consistency": 87.75,
+      "wpm": 223.18,
+      "raw": 239.98
+    }
+  },
+  "colamek": {
+    "15s": {
+      "acc": 100,
+      "consistency": 91.63,
+      "wpm": 250.37,
+      "raw": 250.37
+    },
+    "60s": {
+      "acc": 96.75,
+      "consistency": 88.55,
+      "wpm": 221.59,
+      "raw": 233.58
+    }
+  },
+  "realboot": {
+    "15s": {
+      "acc": 97.27,
+      "consistency": 93.79,
+      "wpm": 246.19,
+      "raw": 263.77
+    },
+    "60s": {
+      "acc": 96.09,
+      "consistency": 89.55,
+      "wpm": 220.2,
+      "raw": 235.4
+    }
+  },
+  "lapur": {
+    "15s": {
+      "acc": 99.04,
+      "consistency": 77.92,
+      "wpm": 247.1,
+      "raw": 247.1
+    },
+    "60s": {
+      "acc": 94.54,
+      "consistency": 86.26,
+      "wpm": 219.76,
+      "raw": 241.75
+    }
+  },
+  "iazy": {
+    "15s": {
+      "acc": 97.5,
+      "consistency": 90.68,
+      "wpm": 244.76,
+      "raw": 255.96
+    },
+    "60s": {
+      "acc": 95.74,
+      "consistency": 88.6,
+      "wpm": 213.6,
+      "raw": 230.2
+    }
+  },
+  "winterries": {
+    "15s": {
+      "acc": 96.85,
+      "consistency": 87.68,
+      "wpm": 243.18,
+      "raw": 253.58
+    },
+    "60s": {
+      "acc": 98.1,
+      "consistency": 86.01,
+      "wpm": 213.59,
+      "raw": 218.99
+    }
+  },
+  "kevvertonian": {
+    "15s": {
+      "acc": 95.29,
+      "consistency": 93.62,
+      "wpm": 244.7,
+      "raw": 271.89
+    },
+    "60s": {
+      "acc": 93.42,
+      "consistency": 86.67,
+      "wpm": 211.78,
+      "raw": 242.18
+    }
+  },
+  "skwerly": {
+    "15s": {
+      "acc": 96.81,
+      "consistency": 88.28,
+      "wpm": 236.54,
+      "raw": 241.33
+    },
+    "60s": {
+      "acc": 96.02,
+      "consistency": 82.68,
+      "wpm": 211.35,
+      "raw": 215.55
+    }
+  },
+  "kerby_berby": {
+    "15s": {
+      "acc": 99.53,
+      "consistency": 83.7,
+      "wpm": 169.6,
+      "raw": 169.6
+    },
+    "60s": {
+      "acc": 97.47,
+      "consistency": 87.74,
+      "wpm": 210.58,
+      "raw": 221.18
+    }
+  },
+  "p_rae": {
+    "15s": {
+      "acc": 94.14,
+      "consistency": 90.09,
+      "wpm": 223.81,
+      "raw": 245.39
+    },
+    "60s": {
+      "acc": 97.82,
+      "consistency": 91.11,
+      "wpm": 210.37,
+      "raw": 220.37
+    }
+  },
+  "eiko": {
+    "15s": {
+      "acc": 99.29,
+      "consistency": 90.36,
+      "wpm": 223.18,
+      "raw": 223.18
+    },
+    "60s": {
+      "acc": 98.79,
+      "consistency": 84.9,
+      "wpm": 210.2,
+      "raw": 214.2
+    }
+  },
+  "famboy32": {
+    "15s": {
+      "acc": 98.46,
+      "consistency": 89.47,
+      "wpm": 247.99,
+      "raw": 259.19
+    },
+    "60s": {
+      "acc": 97.66,
+      "consistency": 86.69,
+      "wpm": 210.2,
+      "raw": 222.2
+    }
+  },
+  "wobert": {
+    "15s": {
+      "acc": 100,
+      "consistency": 90.86,
+      "wpm": 227.17,
+      "raw": 227.17
+    },
+    "60s": {
+      "acc": 98.34,
+      "consistency": 88.53,
+      "wpm": 210,
+      "raw": 216.6
+    }
+  },
+  "snoverpk": {
+    "15s": {
+      "acc": 100,
+      "consistency": 90.12,
+      "wpm": 220.8,
+      "raw": 220.8
+    },
+    "60s": {
+      "acc": 99.06,
+      "consistency": 88.36,
+      "wpm": 209.4,
+      "raw": 212.6
+    }
+  },
+  "mth_influensane": {
+    "15s": {
+      "acc": 98.03,
+      "consistency": 92.45,
+      "wpm": 237.14,
+      "raw": 243.53
+    },
+    "60s": {
+      "acc": 97.69,
+      "consistency": 90.78,
+      "wpm": 205.14,
+      "raw": 216.34
+    }
+  },
+  "frierenpout": {
+    "15s": {
+      "acc": 100,
+      "consistency": 91.93,
+      "wpm": 229.58,
+      "raw": 229.58
+    },
+    "60s": {
+      "acc": 96.17,
+      "consistency": 88.44,
+      "wpm": 203.79,
+      "raw": 219.39
+    }
+  },
+  "thatheathen": {
+    "15s": {
+      "acc": 98.92,
+      "consistency": 89.98,
+      "wpm": 219.14,
+      "raw": 222.33
+    },
+    "60s": {
+      "acc": 97.44,
+      "consistency": 88.42,
+      "wpm": 203.6,
+      "raw": 210.6
+    }
+  },
+  "kakarot_db": {
+    "15s": {
+      "acc": 98.93,
+      "consistency": 93.4,
+      "wpm": 218.63,
+      "raw": 224.22
+    },
+    "60s": {
+      "acc": 96.92,
+      "consistency": 87.92,
+      "wpm": 202.17,
+      "raw": 213.97
+    }
+  },
+  "galaxybiscuit": {
+    "15s": {
+      "acc": 98.94,
+      "consistency": 91.82,
+      "wpm": 222.31,
+      "raw": 226.31
+    },
+    "60s": {
+      "acc": 98,
+      "consistency": 91.24,
+      "wpm": 200.39,
+      "raw": 209.99
+    }
+  },
+  "iiicetea": {
+    "15s": {
+      "acc": 98.98,
+      "consistency": 92.59,
+      "wpm": 229.49,
+      "raw": 235.08
+    },
+    "60s": {
+      "acc": 96.88,
+      "consistency": 83.14,
+      "wpm": 199.59,
+      "raw": 210.59
     }
   }
 }
