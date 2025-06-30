@@ -726,5 +726,103 @@
       "wpm": 189.6,
       "raw": 194.4
     }
+  },
+  "aqrem": {
+    "15s": {
+      "acc": 98.89,
+      "consistency": 89.46,
+      "wpm": 212,
+      "raw": 216
+    },
+    "60s": {
+      "acc": 97.01,
+      "consistency": 86.75,
+      "wpm": 188.8,
+      "raw": 199.8
+    }
+  },
+  "frogstacks": {
+    "15s": {
+      "acc": 97.81,
+      "consistency": 88.79,
+      "wpm": 211.18,
+      "raw": 219.18
+    },
+    "60s": {
+      "acc": 94.01,
+      "consistency": 88.09,
+      "wpm": 187.19,
+      "raw": 213.19
+    }
+  },
+  "nalyd_vs": {
+    "15s": {
+      "acc": 95.93,
+      "consistency": 90.59,
+      "wpm": 216.61,
+      "raw": 235.8
+    },
+    "60s": {
+      "acc": 96.57,
+      "consistency": 84.56,
+      "wpm": 183.97,
+      "raw": 197.77
+    }
+  },
+  "zacthemac": {
+    "15s": {
+      "acc": 96.98,
+      "consistency": 87.02,
+      "wpm": 223.99,
+      "raw": 238.39
+    },
+    "60s": {
+      "acc": 96.74,
+      "consistency": 78.51,
+      "wpm": 183.8,
+      "raw": 195
+    }
+  },
+  "architect": {
+    "15s": {
+      "acc": 100,
+      "consistency": 93.46,
+      "wpm": 216.71,
+      "raw": 216.71
+    },
+    "60s": {
+      "acc": 95.13,
+      "consistency": 85.75,
+      "wpm": 182.59,
+      "raw": 199.59
+    }
+  },
+  "coralsss": {
+    "15s": {
+      "acc": 97.71,
+      "consistency": 88.96,
+      "wpm": 204.73,
+      "raw": 209.53
+    },
+    "60s": {
+      "acc": 98.4,
+      "consistency": 86.56,
+      "wpm": 181.99,
+      "raw": 187.19
+    }
+  },
+  "strdybarbie": {
+    "15s": {
+      "acc": 97.03,
+      "consistency": 78.79,
+      "wpm": 208.77,
+      "raw": 208.77
+    },
+    "60s": {
+      "acc": 91.95,
+      "consistency": 88.83,
+      "wpm": 180.2,
+      "raw": 208.6
+    }
   }
 }
