@@ -44,3 +44,8 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run update script for google sheets
+        env:
+          UPDATE_SHEET_TOKEN: ${{ secrets.UPDATE_SHEET_TOKEN }}
+        run: |
+          curl "https://script.google.com/macros/s/AKfycbyUQimuLsp9adUqI5SLS8TMvSfQ-RERVQ_XMwrI7_CYOtAkcLnk3wF5itqvUBj18hWfrA/exec?token=${UPDATE_SHEET_TOKEN}"
