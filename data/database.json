@@ -824,5 +824,131 @@
       "wpm": 180.2,
       "raw": 208.6
     }
+  },
+  "krain_": {
+    "15s": {
+      "acc": 96.31,
+      "consistency": 85.37,
+      "wpm": 183.95,
+      "raw": 194.35
+    },
+    "60s": {
+      "acc": 92.23,
+      "consistency": 88.88,
+      "wpm": 181.2,
+      "raw": 207.6
+    }
+  },
+  "yogitpro": {
+    "15s": {
+      "acc": 98.59,
+      "consistency": 89.07,
+      "wpm": 222.39,
+      "raw": 226.38
+    },
+    "60s": {
+      "acc": 97.42,
+      "consistency": 78.56,
+      "wpm": 178.6,
+      "raw": 182.2
+    }
+  },
+  "xelconseer": {
+    "15s": {
+      "acc": 98.85,
+      "consistency": 90.92,
+      "wpm": 203.14,
+      "raw": 209.54
+    },
+    "60s": {
+      "acc": 96.33,
+      "consistency": 83.5,
+      "wpm": 178.99,
+      "raw": 188.39
+    }
+  },
+  "qwertron": {
+    "15s": {
+      "acc": 100,
+      "consistency": 92.65,
+      "wpm": 192.65,
+      "raw": 192.65
+    },
+    "60s": {
+      "acc": 99.89,
+      "consistency": 87.17,
+      "wpm": 177.19,
+      "raw": 178.19
+    }
+  },
+  "blanksmth": {
+    "15s": {
+      "acc": 92.7,
+      "consistency": 88.61,
+      "wpm": 192.74,
+      "raw": 219.14
+    },
+    "60s": {
+      "acc": 90.77,
+      "consistency": 79.54,
+      "wpm": 174,
+      "raw": 209.79
+    }
+  },
+  "rumptypes": {
+    "15s": {
+      "acc": 100,
+      "consistency": 91.38,
+      "wpm": 177.59,
+      "raw": 177.59
+    },
+    "60s": {
+      "acc": 99.77,
+      "consistency": 87.6,
+      "wpm": 173.19,
+      "raw": 173.19
+    }
+  },
+  "clapre.": {
+    "15s": {
+      "acc": 96.03,
+      "consistency": 92.1,
+      "wpm": 187.93,
+      "raw": 201.52
+    },
+    "60s": {
+      "acc": 97.93,
+      "consistency": 89.82,
+      "wpm": 167.35,
+      "raw": 174.15
+    }
+  },
+  "testin": {
+    "15s": {
+      "acc": 97.95,
+      "consistency": 94.29,
+      "wpm": 183.15,
+      "raw": 195.15
+    },
+    "60s": {
+      "acc": 97.88,
+      "consistency": 82.54,
+      "wpm": 154.37,
+      "raw": 159.57
+    }
+  },
+  "33kc": {
+    "15s": {
+      "acc": 98.03,
+      "consistency": 90.24,
+      "wpm": 194.26,
+      "raw": 203.05
+    },
+    "60s": {
+      "acc": 94.54,
+      "consistency": 88.17,
+      "wpm": 165.59,
+      "raw": 182.99
+    }
   }
 }
