@@ -2,8 +2,6 @@ import { writeFile } from "node:fs";
 import handles from "../data/handles.json" with { type: "json" };
 import { getBestScores } from "../modules/personalBests.js";
 import { getLevelFromTotalXp } from "../modules/util.js";
-import { get } from "node:http";
-import { profile } from "node:console";
 
 let counter = 0;
 let db = {};
