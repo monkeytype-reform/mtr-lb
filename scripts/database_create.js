@@ -46,7 +46,7 @@ function fetchProfile(handle) {
             const pb15s = bestScores.time["15"];
             const pb60s = bestScores.time["60"];
             const pb10w = bestScores.words["10"];
-            const xp = profileData.data.xp;
+            const xp = Math.floor(profileData.data.xp);
             const level = getLevelFromTotalXp(xp);
 
             if (pb15s == null || pb60s == null) {
