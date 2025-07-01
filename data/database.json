@@ -11,6 +11,12 @@
       "consistency": 89.97,
       "wpm": 269.79,
       "raw": 288.79
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 63.65,
+      "wpm": 372.62,
+      "raw": 372.62
     }
   },
   "xyloflake": {
@@ -25,6 +31,12 @@
       "consistency": 77.96,
       "wpm": 134.99,
       "raw": 136.39
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 90.74,
+      "wpm": 182.26,
+      "raw": 182.26
     }
   },
   "kuzya_dipsize": {
@@ -39,6 +51,12 @@
       "consistency": 88.65,
       "wpm": 275.52,
       "raw": 296.71
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 62.51,
+      "wpm": 413.5,
+      "raw": 413.5
     }
   },
   "fallenrelic": {
@@ -53,6 +71,12 @@
       "consistency": 87.87,
       "wpm": 267.37,
       "raw": 272.97
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 100,
+      "wpm": 359.69,
+      "raw": 359.69
     }
   },
   "joshua728": {
@@ -67,6 +91,12 @@
       "consistency": 87.4,
       "wpm": 265.6,
       "raw": 279.4
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 99.58,
+      "wpm": 358.62,
+      "raw": 358.62
     }
   },
   "hiimnotgood": {
@@ -81,6 +111,12 @@
       "consistency": 90.96,
       "wpm": 261.8,
       "raw": 270.4
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 97.58,
+      "wpm": 352.3,
+      "raw": 352.3
     }
   },
   "shazity": {
@@ -95,6 +131,12 @@
       "consistency": 90.42,
       "wpm": 247.39,
       "raw": 257.99
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 98.25,
+      "wpm": 341.29,
+      "raw": 341.29
     }
   },
   "lpz": {
@@ -109,6 +151,12 @@
       "consistency": 91.18,
       "wpm": 209.2,
       "raw": 219.4
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 100,
+      "wpm": 299.69,
+      "raw": 299.69
     }
   },
   "anythinganything": {
@@ -123,6 +171,12 @@
       "consistency": 88.41,
       "wpm": 180.39,
       "raw": 183.39
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 70.67,
+      "wpm": 231.25,
+      "raw": 231.25
     }
   },
   "chessknightz": {
@@ -137,6 +191,12 @@
       "consistency": 89.23,
       "wpm": 219.59,
       "raw": 232.39
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 63.33,
+      "wpm": 287.79,
+      "raw": 287.79
     }
   },
   "bl1ndfate": {
@@ -151,6 +211,12 @@
       "consistency": 76.73,
       "wpm": 149.58,
       "raw": 170.97
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 90.27,
+      "wpm": 229.42,
+      "raw": 229.42
     }
   },
   "carlibou": {
@@ -165,6 +231,12 @@
       "consistency": 89.41,
       "wpm": 250.19,
       "raw": 267.59
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 98.28,
+      "wpm": 378.82,
+      "raw": 378.82
     }
   },
   "dragoncityjose": {
@@ -179,6 +251,12 @@
       "consistency": 91.02,
       "wpm": 248.77,
       "raw": 256.77
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 44.36,
+      "wpm": 323.96,
+      "raw": 323.96
     }
   },
   "hotmama": {
@@ -193,6 +271,12 @@
       "consistency": 91.33,
       "wpm": 245,
       "raw": 269
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 94.58,
+      "wpm": 344.46,
+      "raw": 344.46
     }
   },
   "fenno": {
@@ -207,6 +291,12 @@
       "consistency": 93.11,
       "wpm": 243.8,
       "raw": 248.6
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 37.64,
+      "wpm": 313.74,
+      "raw": 313.74
     }
   },
   "munkeontop": {
@@ -221,6 +311,12 @@
       "consistency": 92.16,
       "wpm": 243.2,
       "raw": 260
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 92.54,
+      "wpm": 342.64,
+      "raw": 342.64
     }
   },
   "flaneur": {
@@ -235,6 +331,12 @@
       "consistency": 84.04,
       "wpm": 241.5,
       "raw": 250.29
+    },
+    "10w": {
+      "acc": 94,
+      "consistency": 95.58,
+      "wpm": 310.3,
+      "raw": 337.29
     }
   },
   "xdmoment": {
@@ -249,6 +351,12 @@
       "consistency": 88.85,
       "wpm": 240.6,
       "raw": 263.6
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 28.56,
+      "wpm": 394.97,
+      "raw": 394.97
     }
   },
   "princedhq": {
@@ -263,6 +371,12 @@
       "consistency": 88.68,
       "wpm": 236.6,
       "raw": 240.2
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 98.43,
+      "wpm": 318.85,
+      "raw": 318.85
     }
   },
   "shizukofanboy379": {
@@ -277,6 +391,12 @@
       "consistency": 91.7,
       "wpm": 235.2,
       "raw": 241
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 84.51,
+      "wpm": 338.64,
+      "raw": 338.64
     }
   },
   "swooftyy": {
@@ -291,6 +411,12 @@
       "consistency": 87.23,
       "wpm": 231.2,
       "raw": 241
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 99.38,
+      "wpm": 322.78,
+      "raw": 322.78
     }
   },
   "jasonhall": {
@@ -305,6 +431,12 @@
       "consistency": 83.67,
       "wpm": 227.19,
       "raw": 234.79
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 41.42,
+      "wpm": 301.89,
+      "raw": 301.89
     }
   },
   "shizuko": {
@@ -319,6 +451,12 @@
       "consistency": 87.75,
       "wpm": 223.18,
       "raw": 239.98
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 33.75,
+      "wpm": 307.98,
+      "raw": 307.98
     }
   },
   "colamek": {
@@ -333,6 +471,12 @@
       "consistency": 88.55,
       "wpm": 221.59,
       "raw": 233.58
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 42.06,
+      "wpm": 293.95,
+      "raw": 293.95
     }
   },
   "realboot": {
@@ -347,6 +491,12 @@
       "consistency": 89.55,
       "wpm": 220.2,
       "raw": 235.4
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 99.03,
+      "wpm": 308.74,
+      "raw": 308.74
     }
   },
   "lapur": {
@@ -361,6 +511,12 @@
       "consistency": 86.26,
       "wpm": 219.76,
       "raw": 241.75
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 96.55,
+      "wpm": 349.85,
+      "raw": 349.85
     }
   },
   "iazy": {
@@ -375,6 +531,12 @@
       "consistency": 88.6,
       "wpm": 213.6,
       "raw": 230.2
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 93.02,
+      "wpm": 320.09,
+      "raw": 320.09
     }
   },
   "winterries": {
@@ -389,6 +551,12 @@
       "consistency": 86.01,
       "wpm": 213.59,
       "raw": 218.99
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 44.48,
+      "wpm": 308.01,
+      "raw": 308.01
     }
   },
   "kevvertonian": {
@@ -403,6 +571,12 @@
       "consistency": 86.67,
       "wpm": 211.78,
       "raw": 242.18
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 37.51,
+      "wpm": 290.91,
+      "raw": 290.91
     }
   },
   "skwerly": {
@@ -417,6 +591,12 @@
       "consistency": 82.68,
       "wpm": 211.35,
       "raw": 215.55
+    },
+    "10w": {
+      "acc": 96.23,
+      "consistency": 45.06,
+      "wpm": 290.63,
+      "raw": 290.63
     }
   },
   "kerby_berby": {
@@ -431,6 +611,12 @@
       "consistency": 87.74,
       "wpm": 210.58,
       "raw": 221.18
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 70.23,
+      "wpm": 287.73,
+      "raw": 287.73
     }
   },
   "p_rae": {
@@ -445,6 +631,12 @@
       "consistency": 91.11,
       "wpm": 210.37,
       "raw": 220.37
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 38.35,
+      "wpm": 281.53,
+      "raw": 281.53
     }
   },
   "eiko": {
@@ -459,6 +651,12 @@
       "consistency": 84.9,
       "wpm": 210.2,
       "raw": 214.2
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 38.35,
+      "wpm": 285.44,
+      "raw": 285.44
     }
   },
   "famboy32": {
@@ -473,6 +671,12 @@
       "consistency": 86.69,
       "wpm": 210.2,
       "raw": 222.2
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 99.69,
+      "wpm": 324.26,
+      "raw": 324.26
     }
   },
   "wobert": {
@@ -487,6 +691,12 @@
       "consistency": 88.53,
       "wpm": 210,
       "raw": 216.6
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 68.25,
+      "wpm": 268.09,
+      "raw": 268.09
     }
   },
   "snoverpk": {
@@ -501,6 +711,12 @@
       "consistency": 88.36,
       "wpm": 209.4,
       "raw": 212.6
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 65.93,
+      "wpm": 258.39,
+      "raw": 258.39
     }
   },
   "mth_influensane": {
@@ -515,6 +731,12 @@
       "consistency": 90.78,
       "wpm": 205.14,
       "raw": 216.34
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 25.75,
+      "wpm": 295.57,
+      "raw": 295.57
     }
   },
   "frierenpout": {
@@ -529,6 +751,12 @@
       "consistency": 88.44,
       "wpm": 203.79,
       "raw": 219.39
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 45.64,
+      "wpm": 278.06,
+      "raw": 278.06
     }
   },
   "thatheathen": {
@@ -543,6 +771,12 @@
       "consistency": 88.42,
       "wpm": 203.6,
       "raw": 210.6
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 94.21,
+      "wpm": 232.79,
+      "raw": 232.79
     }
   },
   "kakarot_db": {
@@ -557,6 +791,12 @@
       "consistency": 87.92,
       "wpm": 202.17,
       "raw": 213.97
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 54.54,
+      "wpm": 269.35,
+      "raw": 269.35
     }
   },
   "galaxybiscuit": {
@@ -571,6 +811,12 @@
       "consistency": 91.24,
       "wpm": 200.39,
       "raw": 209.99
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 38.7,
+      "wpm": 268.76,
+      "raw": 268.76
     }
   },
   "iiicetea": {
@@ -585,6 +831,12 @@
       "consistency": 83.14,
       "wpm": 199.59,
       "raw": 210.59
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 39.07,
+      "wpm": 264.64,
+      "raw": 264.64
     }
   },
   "uwarowite": {
@@ -599,6 +851,12 @@
       "consistency": 84.28,
       "wpm": 171.57,
       "raw": 197.76
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 47.43,
+      "wpm": 268.79,
+      "raw": 268.79
     }
   },
   "octahedron": {
@@ -613,6 +871,12 @@
       "consistency": 91.93,
       "wpm": 199.37,
       "raw": 204.77
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 92.16,
+      "wpm": 254.5,
+      "raw": 254.5
     }
   },
   "_anomaly_": {
@@ -627,6 +891,12 @@
       "consistency": 88.66,
       "wpm": 198.17,
       "raw": 216.55
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 63.33,
+      "wpm": 284.87,
+      "raw": 284.87
     }
   },
   "violel": {
@@ -641,6 +911,12 @@
       "consistency": 85.48,
       "wpm": 196.2,
       "raw": 201.4
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 65.37,
+      "wpm": 254.15,
+      "raw": 254.15
     }
   },
   "serpa": {
@@ -655,6 +931,12 @@
       "consistency": 88.51,
       "wpm": 195.79,
       "raw": 205.39
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 67.87,
+      "wpm": 253.33,
+      "raw": 253.33
     }
   },
   "poem": {
@@ -669,6 +951,12 @@
       "consistency": 90.06,
       "wpm": 194.59,
       "raw": 199.59
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 58.94,
+      "wpm": 270.45,
+      "raw": 270.45
     }
   },
   "adryn-aria": {
@@ -683,6 +971,12 @@
       "consistency": 91.32,
       "wpm": 194.18,
       "raw": 204.78
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 32.24,
+      "wpm": 288.49,
+      "raw": 288.49
     }
   },
   "98769_": {
@@ -697,6 +991,12 @@
       "consistency": 84.55,
       "wpm": 191.59,
       "raw": 206.39
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 54.24,
+      "wpm": 271.42,
+      "raw": 271.42
     }
   },
   "ooreoo": {
@@ -711,6 +1011,12 @@
       "consistency": 87.88,
       "wpm": 191.39,
       "raw": 199.59
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 51.66,
+      "wpm": 248.9,
+      "raw": 248.9
     }
   },
   "odekipalace": {
@@ -725,6 +1031,12 @@
       "consistency": 88.95,
       "wpm": 190.59,
       "raw": 195.79
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 75.83,
+      "wpm": 246.6,
+      "raw": 246.6
     }
   },
   "glaukko": {
@@ -739,6 +1051,12 @@
       "consistency": 84.64,
       "wpm": 189.6,
       "raw": 194.4
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 96.87,
+      "wpm": 248.7,
+      "raw": 248.7
     }
   },
   "aqrem": {
@@ -753,6 +1071,12 @@
       "consistency": 86.75,
       "wpm": 188.8,
       "raw": 199.8
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 75.83,
+      "wpm": 247.26,
+      "raw": 247.26
     }
   },
   "frogstacks": {
@@ -767,6 +1091,12 @@
       "consistency": 88.09,
       "wpm": 187.19,
       "raw": 213.19
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 94.2,
+      "wpm": 291.87,
+      "raw": 291.87
     }
   },
   "nalyd_vs": {
@@ -781,6 +1111,12 @@
       "consistency": 84.56,
       "wpm": 183.97,
       "raw": 197.77
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 97.26,
+      "wpm": 292.38,
+      "raw": 292.38
     }
   },
   "zacthemac": {
@@ -795,6 +1131,12 @@
       "consistency": 78.51,
       "wpm": 183.8,
       "raw": 195
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 100,
+      "wpm": 300.23,
+      "raw": 300.23
     }
   },
   "architect": {
@@ -809,6 +1151,12 @@
       "consistency": 85.75,
       "wpm": 182.59,
       "raw": 199.59
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 58.16,
+      "wpm": 260.65,
+      "raw": 260.65
     }
   },
   "coralsss": {
@@ -823,6 +1171,12 @@
       "consistency": 86.56,
       "wpm": 181.99,
       "raw": 187.19
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 92.15,
+      "wpm": 235.3,
+      "raw": 235.3
     }
   },
   "strdybarbie": {
@@ -837,6 +1191,12 @@
       "consistency": 88.83,
       "wpm": 180.2,
       "raw": 208.6
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 65.01,
+      "wpm": 268.24,
+      "raw": 268.24
     }
   },
   "krain_": {
@@ -851,6 +1211,12 @@
       "consistency": 86.2,
       "wpm": 215.55,
       "raw": 233.74
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 62.55,
+      "wpm": 297.65,
+      "raw": 297.65
     }
   },
   "yogitpro": {
@@ -865,6 +1231,12 @@
       "consistency": 78.56,
       "wpm": 178.6,
       "raw": 182.2
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 38.35,
+      "wpm": 278.54,
+      "raw": 278.54
     }
   },
   "xelconseer": {
@@ -879,6 +1251,12 @@
       "consistency": 83.5,
       "wpm": 178.99,
       "raw": 188.39
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 94.02,
+      "wpm": 246.56,
+      "raw": 246.56
     }
   },
   "qwertron": {
@@ -893,6 +1271,12 @@
       "consistency": 87.17,
       "wpm": 177.19,
       "raw": 178.19
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 79.84,
+      "wpm": 222.19,
+      "raw": 222.19
     }
   },
   "blanksmth": {
@@ -907,6 +1291,12 @@
       "consistency": 79.54,
       "wpm": 174,
       "raw": 209.79
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 30.03,
+      "wpm": 294.41,
+      "raw": 294.41
     }
   },
   "rumptypes": {
@@ -921,6 +1311,12 @@
       "consistency": 87.6,
       "wpm": 173.19,
       "raw": 173.19
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 75.22,
+      "wpm": 217.54,
+      "raw": 217.54
     }
   },
   "clapre.": {
@@ -935,6 +1331,12 @@
       "consistency": 89.82,
       "wpm": 167.35,
       "raw": 174.15
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 95.64,
+      "wpm": 214.65,
+      "raw": 214.65
     }
   },
   "testin": {
@@ -949,6 +1351,12 @@
       "consistency": 78.31,
       "wpm": 166.8,
       "raw": 166.8
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 46.63,
+      "wpm": 219.05,
+      "raw": 219.05
     }
   },
   "33kc": {
@@ -963,6 +1371,12 @@
       "consistency": 88.17,
       "wpm": 165.59,
       "raw": 182.99
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 68.14,
+      "wpm": 234.86,
+      "raw": 234.86
     }
   },
   "yarinaoshi": {
@@ -977,6 +1391,12 @@
       "consistency": 88.54,
       "wpm": 212.57,
       "raw": 236.96
+    },
+    "10w": {
+      "acc": 100,
+      "consistency": 97.56,
+      "wpm": 307.69,
+      "raw": 307.69
     }
   }
 }
