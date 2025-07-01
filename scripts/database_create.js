@@ -43,6 +43,7 @@ function fetchProfile(handle) {
 
             const pb15s = bestScores.time["15"];
             const pb60s = bestScores.time["60"];
+            const pb10w = bestScores.words["10"];
 
             if (pb15s == null || pb60s == null) {
                 console.log(`No personal bests found for handle: ${handle}, skipping addition to database.`);
@@ -63,6 +64,12 @@ function fetchProfile(handle) {
                     "consistency": pb60s.consistency,
                     "wpm": pb60s.wpm,
                     "raw": pb60s.raw
+                },
+                "10w": {
+                    "acc": pb10w.acc,
+                    "consistency": pb10w.consistency,
+                    "wpm": pb10w.wpm,
+                    "raw": pb10w.raw
                 }
             };
             dbMin[handle] = [
@@ -77,6 +84,12 @@ function fetchProfile(handle) {
                     pb60s.consistency,
                     pb60s.wpm,
                     pb60s.raw
+                ],
+                [
+                    pb10w.acc,
+                    pb10w.consistency,
+                    pb10w.wpm,
+                    pb10w.raw
                 ]
             ]
             counter++;
