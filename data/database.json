@@ -1,5 +1,9 @@
 {
   "saerith": {
+    "levelData": {
+      "xp": 469257,
+      "level": 137
+    },
     "15s": {
       "acc": 98.48,
       "consistency": 90.53,
@@ -20,6 +24,10 @@
     }
   },
   "xyloflake": {
+    "levelData": {
+      "xp": 910211,
+      "level": 192
+    },
     "15s": {
       "acc": 100,
       "consistency": 87.62,
@@ -40,6 +48,10 @@
     }
   },
   "kuzya_dipsize": {
+    "levelData": {
+      "xp": 169245,
+      "level": 82
+    },
     "15s": {
       "acc": 98.23,
       "consistency": 94.34,
@@ -60,6 +72,10 @@
     }
   },
   "fallenrelic": {
+    "levelData": {
+      "xp": 2576433,
+      "level": 323
+    },
     "15s": {
       "acc": 100,
       "consistency": 91.4,
@@ -80,6 +96,10 @@
     }
   },
   "joshua728": {
+    "levelData": {
+      "xp": 852544,
+      "level": 186
+    },
     "15s": {
       "acc": 98.92,
       "consistency": 90.32,
@@ -100,6 +120,10 @@
     }
   },
   "hiimnotgood": {
+    "levelData": {
+      "xp": 1897019,
+      "level": 277
+    },
     "15s": {
       "acc": 100,
       "consistency": 91.51,
@@ -120,6 +144,10 @@
     }
   },
   "shazity": {
+    "levelData": {
+      "xp": 4069174,
+      "level": 407
+    },
     "15s": {
       "acc": 100,
       "consistency": 92.22,
@@ -140,6 +168,10 @@
     }
   },
   "lpz": {
+    "levelData": {
+      "xp": 5600835,
+      "level": 477
+    },
     "15s": {
       "acc": 96.07,
       "consistency": 91.84,
@@ -160,6 +192,10 @@
     }
   },
   "anythinganything": {
+    "levelData": {
+      "xp": 1034995,
+      "level": 205
+    },
     "15s": {
       "acc": 100,
       "consistency": 90.85,
@@ -180,6 +216,10 @@
     }
   },
   "chessknightz": {
+    "levelData": {
+      "xp": 2715860,
+      "level": 332
+    },
     "15s": {
       "acc": 100,
       "consistency": 92.93,
@@ -200,6 +240,10 @@
     }
   },
   "bl1ndfate": {
+    "levelData": {
+      "xp": 1575608,
+      "level": 253
+    },
     "15s": {
       "acc": 93.05,
       "consistency": 90.67,
@@ -220,6 +264,10 @@
     }
   },
   "carlibou": {
+    "levelData": {
+      "xp": 1637847,
+      "level": 258
+    },
     "15s": {
       "acc": 97,
       "consistency": 92.71,
@@ -240,6 +288,10 @@
     }
   },
   "dragoncityjose": {
+    "levelData": {
+      "xp": 2218329,
+      "level": 300
+    },
     "15s": {
       "acc": 100,
       "consistency": 95.37,
@@ -260,6 +312,10 @@
     }
   },
   "hotmama": {
+    "levelData": {
+      "xp": 3051838,
+      "level": 352
+    },
     "15s": {
       "acc": 98.31,
       "consistency": 95.97,
@@ -280,6 +336,10 @@
     }
   },
   "fenno": {
+    "levelData": {
+      "xp": 2115011,
+      "level": 293
+    },
     "15s": {
       "acc": 96.44,
       "consistency": 93.13,
@@ -300,6 +360,10 @@
     }
   },
   "munkeontop": {
+    "levelData": {
+      "xp": 14919012,
+      "level": 779
+    },
     "15s": {
       "acc": 97.96,
       "consistency": 93.44,
@@ -320,6 +384,10 @@
     }
   },
   "flaneur": {
+    "levelData": {
+      "xp": 86012,
+      "level": 58
+    },
     "15s": {
       "acc": 98.52,
       "consistency": 90,
@@ -340,6 +408,10 @@
     }
   },
   "xdmoment": {
+    "levelData": {
+      "xp": 4548453,
+      "level": 430
+    },
     "15s": {
       "acc": 98.03,
       "consistency": 93.04,
@@ -360,6 +432,10 @@
     }
   },
   "princedhq": {
+    "levelData": {
+      "xp": 4997129,
+      "level": 451
+    },
     "15s": {
       "acc": 100,
       "consistency": 92.16,
@@ -380,6 +456,10 @@
     }
   },
   "shizukofanboy379": {
+    "levelData": {
+      "xp": 501065,
+      "level": 142
+    },
     "15s": {
       "acc": 100,
       "consistency": 93.48,
@@ -400,6 +480,10 @@
     }
   },
   "swooftyy": {
+    "levelData": {
+      "xp": 1020876,
+      "level": 203
+    },
     "15s": {
       "acc": 95.66,
       "consistency": 87.09,
@@ -420,6 +504,10 @@
     }
   },
   "jasonhall": {
+    "levelData": {
+      "xp": 332643,
+      "level": 115
+    },
     "15s": {
       "acc": 98.76,
       "consistency": 86.99,
@@ -440,6 +528,10 @@
     }
   },
   "shizuko": {
+    "levelData": {
+      "xp": 9852581.505617978,
+      "level": 633
+    },
     "15s": {
       "acc": 99.08,
       "consistency": 91.98,
@@ -460,6 +552,10 @@
     }
   },
   "colamek": {
+    "levelData": {
+      "xp": 5431672,
+      "level": 470
+    },
     "15s": {
       "acc": 100,
       "consistency": 91.63,
@@ -480,6 +576,10 @@
     }
   },
   "realboot": {
+    "levelData": {
+      "xp": 1664707,
+      "level": 260
+    },
     "15s": {
       "acc": 97.27,
       "consistency": 93.79,
@@ -500,6 +600,10 @@
     }
   },
   "lapur": {
+    "levelData": {
+      "xp": 741750,
+      "level": 173
+    },
     "15s": {
       "acc": 99.04,
       "consistency": 77.92,
@@ -520,6 +624,10 @@
     }
   },
   "iazy": {
+    "levelData": {
+      "xp": 3955269,
+      "level": 401
+    },
     "15s": {
       "acc": 97.5,
       "consistency": 90.68,
@@ -540,6 +648,10 @@
     }
   },
   "winterries": {
+    "levelData": {
+      "xp": 3058197,
+      "level": 352
+    },
     "15s": {
       "acc": 96.85,
       "consistency": 87.68,
@@ -560,6 +672,10 @@
     }
   },
   "kevvertonian": {
+    "levelData": {
+      "xp": 5163883,
+      "level": 458
+    },
     "15s": {
       "acc": 95.29,
       "consistency": 93.62,
@@ -580,6 +696,10 @@
     }
   },
   "skwerly": {
+    "levelData": {
+      "xp": 3314501,
+      "level": 367
+    },
     "15s": {
       "acc": 96.81,
       "consistency": 88.28,
@@ -600,6 +720,10 @@
     }
   },
   "kerby_berby": {
+    "levelData": {
+      "xp": 1650311,
+      "level": 259
+    },
     "15s": {
       "acc": 98.31,
       "consistency": 91.56,
@@ -620,6 +744,10 @@
     }
   },
   "p_rae": {
+    "levelData": {
+      "xp": 1266221,
+      "level": 226
+    },
     "15s": {
       "acc": 94.14,
       "consistency": 90.09,
@@ -640,6 +768,10 @@
     }
   },
   "eiko": {
+    "levelData": {
+      "xp": 72294,
+      "level": 53
+    },
     "15s": {
       "acc": 99.29,
       "consistency": 90.36,
@@ -660,6 +792,10 @@
     }
   },
   "famboy32": {
+    "levelData": {
+      "xp": 952780,
+      "level": 196
+    },
     "15s": {
       "acc": 98.46,
       "consistency": 89.47,
@@ -680,6 +816,10 @@
     }
   },
   "wobert": {
+    "levelData": {
+      "xp": 2148874.573033708,
+      "level": 295
+    },
     "15s": {
       "acc": 100,
       "consistency": 90.86,
@@ -700,6 +840,10 @@
     }
   },
   "snoverpk": {
+    "levelData": {
+      "xp": 8749,
+      "level": 18
+    },
     "15s": {
       "acc": 100,
       "consistency": 90.12,
@@ -720,6 +864,10 @@
     }
   },
   "mth_influensane": {
+    "levelData": {
+      "xp": 873820,
+      "level": 188
+    },
     "15s": {
       "acc": 98.03,
       "consistency": 92.45,
@@ -740,6 +888,10 @@
     }
   },
   "frierenpout": {
+    "levelData": {
+      "xp": 475116,
+      "level": 138
+    },
     "15s": {
       "acc": 100,
       "consistency": 91.93,
@@ -760,6 +912,10 @@
     }
   },
   "thatheathen": {
+    "levelData": {
+      "xp": 881161,
+      "level": 189
+    },
     "15s": {
       "acc": 98.92,
       "consistency": 89.98,
@@ -780,6 +936,10 @@
     }
   },
   "kakarot_db": {
+    "levelData": {
+      "xp": 4430259,
+      "level": 424
+    },
     "15s": {
       "acc": 98.93,
       "consistency": 93.4,
@@ -800,6 +960,10 @@
     }
   },
   "galaxybiscuit": {
+    "levelData": {
+      "xp": 1585859.2258064516,
+      "level": 253
+    },
     "15s": {
       "acc": 98.94,
       "consistency": 91.82,
@@ -820,6 +984,10 @@
     }
   },
   "iiicetea": {
+    "levelData": {
+      "xp": 2086562,
+      "level": 291
+    },
     "15s": {
       "acc": 98.98,
       "consistency": 92.59,
@@ -840,6 +1008,10 @@
     }
   },
   "uwarowite": {
+    "levelData": {
+      "xp": 468907,
+      "level": 137
+    },
     "15s": {
       "acc": 97.12,
       "consistency": 86.8,
@@ -860,6 +1032,10 @@
     }
   },
   "octahedron": {
+    "levelData": {
+      "xp": 1645291,
+      "level": 258
+    },
     "15s": {
       "acc": 100,
       "consistency": 91.97,
@@ -880,6 +1056,10 @@
     }
   },
   "_anomaly_": {
+    "levelData": {
+      "xp": 1076363,
+      "level": 209
+    },
     "15s": {
       "acc": 100,
       "consistency": 88.26,
@@ -900,6 +1080,10 @@
     }
   },
   "violel": {
+    "levelData": {
+      "xp": 644571,
+      "level": 161
+    },
     "15s": {
       "acc": 98.97,
       "consistency": 88.92,
@@ -920,6 +1104,10 @@
     }
   },
   "serpa": {
+    "levelData": {
+      "xp": 2077979,
+      "level": 290
+    },
     "15s": {
       "acc": 98.91,
       "consistency": 91.89,
@@ -940,6 +1128,10 @@
     }
   },
   "poem": {
+    "levelData": {
+      "xp": 660635,
+      "level": 163
+    },
     "15s": {
       "acc": 100,
       "consistency": 91.55,
@@ -960,6 +1152,10 @@
     }
   },
   "adryn-aria": {
+    "levelData": {
+      "xp": 12680821,
+      "level": 718
+    },
     "15s": {
       "acc": 98.22,
       "consistency": 90.97,
@@ -980,6 +1176,10 @@
     }
   },
   "98769_": {
+    "levelData": {
+      "xp": 2416117,
+      "level": 313
+    },
     "15s": {
       "acc": 100,
       "consistency": 90.52,
@@ -1000,6 +1200,10 @@
     }
   },
   "ooreoo": {
+    "levelData": {
+      "xp": 2685906,
+      "level": 330
+    },
     "15s": {
       "acc": 100,
       "consistency": 89.88,
@@ -1020,6 +1224,10 @@
     }
   },
   "odekipalace": {
+    "levelData": {
+      "xp": 564045,
+      "level": 151
+    },
     "15s": {
       "acc": 98.87,
       "consistency": 91.64,
@@ -1040,6 +1248,10 @@
     }
   },
   "glaukko": {
+    "levelData": {
+      "xp": 236024,
+      "level": 97
+    },
     "15s": {
       "acc": 100,
       "consistency": 93.16,
@@ -1060,6 +1272,10 @@
     }
   },
   "aqrem": {
+    "levelData": {
+      "xp": 1308607,
+      "level": 230
+    },
     "15s": {
       "acc": 98.89,
       "consistency": 89.46,
@@ -1080,6 +1296,10 @@
     }
   },
   "frogstacks": {
+    "levelData": {
+      "xp": 1384738,
+      "level": 237
+    },
     "15s": {
       "acc": 97.81,
       "consistency": 88.79,
@@ -1100,6 +1320,10 @@
     }
   },
   "nalyd_vs": {
+    "levelData": {
+      "xp": 9711898.905937932,
+      "level": 629
+    },
     "15s": {
       "acc": 95.93,
       "consistency": 90.59,
@@ -1120,6 +1344,10 @@
     }
   },
   "zacthemac": {
+    "levelData": {
+      "xp": 1438842,
+      "level": 241
+    },
     "15s": {
       "acc": 96.98,
       "consistency": 87.02,
@@ -1140,6 +1368,10 @@
     }
   },
   "architect": {
+    "levelData": {
+      "xp": 3323205,
+      "level": 367
+    },
     "15s": {
       "acc": 100,
       "consistency": 93.46,
@@ -1160,6 +1392,10 @@
     }
   },
   "coralsss": {
+    "levelData": {
+      "xp": 1912086,
+      "level": 278
+    },
     "15s": {
       "acc": 97.71,
       "consistency": 88.96,
@@ -1180,6 +1416,10 @@
     }
   },
   "strdybarbie": {
+    "levelData": {
+      "xp": 798638,
+      "level": 180
+    },
     "15s": {
       "acc": 97.03,
       "consistency": 78.79,
@@ -1200,6 +1440,10 @@
     }
   },
   "krain_": {
+    "levelData": {
+      "xp": 3084510,
+      "level": 354
+    },
     "15s": {
       "acc": 90.27,
       "consistency": 92.47,
@@ -1220,6 +1464,10 @@
     }
   },
   "yogitpro": {
+    "levelData": {
+      "xp": 830680,
+      "level": 183
+    },
     "15s": {
       "acc": 98.59,
       "consistency": 89.07,
@@ -1240,6 +1488,10 @@
     }
   },
   "xelconseer": {
+    "levelData": {
+      "xp": 1667264,
+      "level": 260
+    },
     "15s": {
       "acc": 98.85,
       "consistency": 90.92,
@@ -1260,6 +1512,10 @@
     }
   },
   "qwertron": {
+    "levelData": {
+      "xp": 1108156,
+      "level": 212
+    },
     "15s": {
       "acc": 100,
       "consistency": 92.65,
@@ -1280,6 +1536,10 @@
     }
   },
   "blanksmth": {
+    "levelData": {
+      "xp": 839528,
+      "level": 184
+    },
     "15s": {
       "acc": 92.7,
       "consistency": 88.61,
@@ -1300,6 +1560,10 @@
     }
   },
   "rumptypes": {
+    "levelData": {
+      "xp": 1940321.5179037882,
+      "level": 280
+    },
     "15s": {
       "acc": 100,
       "consistency": 91.38,
@@ -1320,6 +1584,10 @@
     }
   },
   "clapre.": {
+    "levelData": {
+      "xp": 2139940,
+      "level": 295
+    },
     "15s": {
       "acc": 96.03,
       "consistency": 92.1,
@@ -1340,6 +1608,10 @@
     }
   },
   "testin": {
+    "levelData": {
+      "xp": 279123,
+      "level": 106
+    },
     "15s": {
       "acc": 100,
       "consistency": 89.74,
@@ -1360,6 +1632,10 @@
     }
   },
   "33kc": {
+    "levelData": {
+      "xp": 1964569,
+      "level": 282
+    },
     "15s": {
       "acc": 98.03,
       "consistency": 90.24,
@@ -1380,6 +1656,10 @@
     }
   },
   "yarinaoshi": {
+    "levelData": {
+      "xp": 304216,
+      "level": 110
+    },
     "15s": {
       "acc": 97.56,
       "consistency": 90.43,
