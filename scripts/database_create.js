@@ -1,5 +1,6 @@
-import handles from "../data/handles.json" with { type: "json" };
 import { writeFile } from "node:fs";
+import handles from "../data/handles.json" with { type: "json" };
+import { getBestScores } from "../modules/personalBests.js";
 
 let counter = 0;
 let db = {};
@@ -24,15 +25,6 @@ function loadNextProfile() {
     }
 }
 
-function findEnglishPB(personalBests) {
-    for (const pb in personalBests) {
-        if (personalBests[pb].language === "english") {
-            return personalBests[pb];
-        }
-    }
-    return null; // Return null if no English PB is found
-}
-
 function fetchProfile(handle) {
     fetch(`https://api.monkeytype.com/users/${handle}/profile?isUid=false`)
         .then(res => {
@@ -47,11 +39,13 @@ function fetchProfile(handle) {
                 throw new Error("Could not retrieve profile for handle: " + handle);
             }
 
-            const pb15s = findEnglishPB(profileData.data.personalBests.time["15"]);
-            const pb60s = findEnglishPB(profileData.data.personalBests.time["60"]);
+            const bestScores = getBestScores(profileData.data.personalBests);
+
+            const pb15s = bestScores.time["15"];
+            const pb60s = bestScores.time["60"];
 
             if (pb15s == null || pb60s == null) {
-                console.log(`No English personal bests found for handle: ${handle}, skipping addition to database.`);
+                console.log(`No personal bests found for handle: ${handle}, skipping addition to database.`);
                 counter++;
                 loadNextProfile();
                 return; // Skip this handle if no English PBs are found

@@ -27,6 +27,20 @@
       "raw": 136.39
     }
   },
+  "kuzya_dipsize": {
+    "15s": {
+      "acc": 98.23,
+      "consistency": 94.34,
+      "wpm": 307.92,
+      "raw": 315.92
+    },
+    "60s": {
+      "acc": 96.64,
+      "consistency": 88.65,
+      "wpm": 275.52,
+      "raw": 296.71
+    }
+  },
   "fallenrelic": {
     "15s": {
       "acc": 100,
@@ -407,10 +421,10 @@
   },
   "kerby_berby": {
     "15s": {
-      "acc": 99.53,
-      "consistency": 83.7,
-      "wpm": 169.6,
-      "raw": 169.6
+      "acc": 98.31,
+      "consistency": 91.56,
+      "wpm": 229.52,
+      "raw": 235.91
     },
     "60s": {
       "acc": 97.47,
@@ -827,16 +841,16 @@
   },
   "krain_": {
     "15s": {
-      "acc": 96.31,
-      "consistency": 85.37,
-      "wpm": 183.95,
-      "raw": 194.35
+      "acc": 90.27,
+      "consistency": 92.47,
+      "wpm": 210.24,
+      "raw": 263
     },
     "60s": {
-      "acc": 92.23,
-      "consistency": 88.88,
-      "wpm": 181.2,
-      "raw": 207.6
+      "acc": 96.16,
+      "consistency": 86.2,
+      "wpm": 215.55,
+      "raw": 233.74
     }
   },
   "yogitpro": {
@@ -925,16 +939,16 @@
   },
   "testin": {
     "15s": {
-      "acc": 97.95,
-      "consistency": 94.29,
-      "wpm": 183.15,
-      "raw": 195.15
+      "acc": 100,
+      "consistency": 89.74,
+      "wpm": 190.4,
+      "raw": 190.4
     },
     "60s": {
-      "acc": 97.88,
-      "consistency": 82.54,
-      "wpm": 154.37,
-      "raw": 159.57
+      "acc": 100,
+      "consistency": 78.31,
+      "wpm": 166.8,
+      "raw": 166.8
     }
   },
   "33kc": {
