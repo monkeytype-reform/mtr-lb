@@ -1,6 +1,8 @@
 import { writeFile } from "node:fs";
 import handles from "../data/handles.json" with { type: "json" };
 import { getBestScores } from "../modules/personalBests.js";
+import { getLevelFromTotalXp } from "../modules/util.js";
+import { get } from "node:http";
 
 let counter = 0;
 let db = {};
@@ -44,6 +46,8 @@ function fetchProfile(handle) {
             const pb15s = bestScores.time["15"];
             const pb60s = bestScores.time["60"];
             const pb10w = bestScores.words["10"];
+            const xp = profileData.data.xp;
+            const level = getLevelFromTotalXp(xp);
 
             if (pb15s == null || pb60s == null) {
                 console.log(`No personal bests found for handle: ${handle}, skipping addition to database.`);
@@ -53,6 +57,10 @@ function fetchProfile(handle) {
             }
 
             db[handle] = {
+                "levelData": {
+                    xp,
+                    level
+                },
                 "15s": {
                     "acc": pb15s.acc,
                     "consistency": pb15s.consistency,
@@ -73,6 +81,10 @@ function fetchProfile(handle) {
                 }
             };
             dbMin[handle] = [
+                [
+                    xp,
+                    level
+                ],
                 [
                     pb15s.acc,
                     pb15s.consistency,
