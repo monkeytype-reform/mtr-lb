@@ -52,4 +52,4 @@ jobs:
         env:
           UPDATE_SHEET_TOKEN: ${{ secrets.UPDATE_SHEET_TOKEN }}
         run: |
-          curl "https://script.google.com/macros/s/AKfycbyKUQsouTcL_ORejsLRoDRM7DJ44eS1uAkzOTO2TLtIKtvEwZf1ciRg7ab2PiOfpsrxYA/exec?token=${UPDATE_SHEET_TOKEN}"
+          curl "https://script.google.com/macros/s/AKfycbwcvC92SKxPzzfTtv4rJO33eBQZhMqCPaE4PPjLOtx-lDuZIpStBF42QI5ztqnCvIPb/exec?token=${UPDATE_SHEET_TOKEN}"
