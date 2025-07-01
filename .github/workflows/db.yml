@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - data/handles.json
+      - scripts/database_create.js
 
 permissions:
   contents: write
