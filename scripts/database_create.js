@@ -57,7 +57,7 @@ function fetchProfile(handle) {
             }
 
             db[handle] = {
-                "levelData": {
+                "lvl": {
                     xp,
                     level
                 },
