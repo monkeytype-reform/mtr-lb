@@ -41,7 +41,7 @@ function fetchProfile(handle) {
             }
 
             const bestScores = getBestScores(profileData.data.personalBests);
-
+            console.log(bestScores.words["10"]);
             const pb15s = bestScores.time["15"];
             const pb60s = bestScores.time["60"];
             const pb10w = bestScores.words["10"];
@@ -62,19 +62,19 @@ function fetchProfile(handle) {
                     level,
                     tt: timeTyping
                 },
-                "15s": {
+                "15s": pb15s == null ? null : {
                     "acc": pb15s.acc,
                     "consistency": pb15s.consistency,
                     "wpm": pb15s.wpm,
                     "raw": pb15s.raw
                 },
-                "60s": {
+                "60s": pb60s == null ? null : {
                     "acc": pb60s.acc,
                     "consistency": pb60s.consistency,
                     "wpm": pb60s.wpm,
                     "raw": pb60s.raw
                 },
-                "10w": {
+                "10w": pb10w == null ? null : {
                     "acc": pb10w.acc,
                     "consistency": pb10w.consistency,
                     "wpm": pb10w.wpm,
@@ -87,19 +87,19 @@ function fetchProfile(handle) {
                     level,
                     timeTyping
                 ],
-                [
+                pb15s == null ? null : [
                     pb15s.acc,
                     pb15s.consistency,
                     pb15s.wpm,
                     pb15s.raw
                 ],
-                [
+                pb60s == null ? null : [
                     pb60s.acc,
                     pb60s.consistency,
                     pb60s.wpm,
                     pb60s.raw
                 ],
-                [
+                pb10w == null ? null : [
                     pb10w.acc,
                     pb10w.consistency,
                     pb10w.wpm,
