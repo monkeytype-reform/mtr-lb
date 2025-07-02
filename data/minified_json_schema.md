@@ -1,6 +1,6 @@
 # Minified JSON Schema Documentation
 
-## vOverview
+## Overview
 
 The minified JSON object is a minified representation of user typing statistics. Each key is a unique user handle, and its value is an **array of fixed index slots** representing user info and performance metrics in different typing test modes.
 
